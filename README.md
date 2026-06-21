@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @MukeTR
-- 👀 I’m interested in, project management
-- 🌱 I’m currently learning Agile Methodology
-- 💞️ I’m looking to collaborate on system improvements
-- 📫 How to reach me mkemalkaratas95@gmail.com
+### Hi, I'm Kemal 👋  (@MukeTR)
 
-<!---
-MukeTR/MukeTR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Indie hacker & solo founder — I build products end-to-end, from idea to launch
+📈 8+ years in Growth & CRM, now shipping my own SaaS
+🤖 Hooked on automation (n8n, Make) and putting AI to work in real products
+🌱 Lean by design: low-cost, free-tier-first, ship fast
+💬 Always happy to talk SaaS, e-commerce growth & automation
+
+📫 mkemalkaratas95@gmail.com
+🔗 linkedin.com/in/mustafakemalkaratas
